@@ -10,5 +10,9 @@
 ▐      ███ 42█        █
 ▐                     █
 ▐            07:40    █
+<<<<<<< HEAD
 █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█24.11.2020 10:55
 >>>>>>> art/marivano
+=======
+█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█24.11.2020 10:55
+>>>>>>> 8bdce9d (marivano edited blackSquare: added nickname and date-time in the end)
