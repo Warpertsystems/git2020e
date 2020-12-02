@@ -1,2 +1,2 @@
 marivano 26.11.2020: What is the second way to ignore file? I used echo mylittlesign.txt >> .gitignore and git rm --cached hide/mylittlesign.txt both
-Alexander aanikin 7.3
+Alexander aanikin 7.4
